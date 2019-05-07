@@ -1,0 +1,7 @@
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe.config
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.exe
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\bin\Debug\CrimeAnalyzer.pdb
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csprojAssemblyReference.cache
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.exe
+C:\Users\Neeqo\Desktop\Visual Studio\CrimeAnalyzer\CrimeAnalyzer\CrimeAnalyzer\obj\Debug\CrimeAnalyzer.pdb
